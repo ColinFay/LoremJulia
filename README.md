@@ -4,7 +4,7 @@ Just a basic loremp ipsum generator made in Julia. Basically a pet project.
 
 ## Install
 
-Pkg.Clone("git@github.com:ColinFay/LoremJulia.git")
+`Pkg.clone("git@github.com:ColinFay/LoremJulia.git")`
 
 ## Launch
 
