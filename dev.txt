@@ -1,2 +1,2 @@
 using PkgDev
-PkgDev.generate("JuliaIpsum","MIT")
+PkgDev.generate("LoremJulia","MIT")
