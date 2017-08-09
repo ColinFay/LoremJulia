@@ -1,0 +1,2 @@
+using PkgDev
+PkgDev.generate("JuliaIpsum","MIT")
