@@ -20,5 +20,4 @@ In Julia, `using LoremJulia`, then:
 
 ## Credit
 
-Lorem ipsum text was taken from [lipsum.com](http://lipsum.com/) — generated 100 paragraphs, 8970 words, 60793 bytes of Lorem Ipsum
-# JuliaIpsum
+Lorem ipsum text was taken from [lipsum.com](http://lipsum.com/) — generated 100 paragraphs, 8970 words, 60793 bytes of Lorem Ipsum.
