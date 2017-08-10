@@ -10,7 +10,7 @@ A basic lorem ipsum generator made in Julia.
 
 In Julia, `using LoremJulia`, then:
 
-`lorem` gives a full lorem ipsum text.
+`lorem_txt` gives a full lorem ipsum text.
 
 `lorem_char(volume)` returns the number of letters given in the `volume` param.
 
