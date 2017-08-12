@@ -12,7 +12,7 @@ In Julia, `using LoremJulia`, then:
 
 `lorem_txt` gives a full lorem ipsum text.
 
-`lorem_char(volume)` returns the number of letters given in the `volume` param.
+`lorem_chars(volume)` returns the number of letters given in the `volume` param.
 
 ```{julia}
 lorem_char(2)
@@ -33,6 +33,8 @@ lorem_words(2)
 lorem_sentences(2)
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat lorem ullamcorper, sagittis massa et, elementum dui"
 ```
+
+`lorem_paragraphs(volume)` returns the number of paragraphs given in the `volume` param.
 
 ## Credit
 
