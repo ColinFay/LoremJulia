@@ -15,18 +15,18 @@ In Julia, `using LoremJulia`, then:
 `lorem_chars(volume)` returns the number of letters given in the `volume` param.
 
 ```{julia}
-lorem_char(2)
+lorem_chars(2)
 "Lo"
 ```
 
-`lorem_words(volume)` returns the number of letters given in the `volume` param.
+`lorem_words(volume)` returns the number of words given in the `volume` param.
 
 ```{julia}
 lorem_words(2)
 "Lorem ipsum"
 ```
 
-`lorem_sentences(volume)` returns the number of letters given in the `volume` param.
+`lorem_sentences(volume)` returns the number of sentences given in the `volume` param.
 
 
 ```{julia}
